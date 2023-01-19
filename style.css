@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+  background-color: hsl(0, 100%, 74%);
+  background-image: url(./images/bg-intro-desktop.png);
+  font-family: 'Poppins', sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+.texto {
+  color: hsl(360, 0%, 100%);
+  font-size: 16px;
+  text-align: left;
+}
+
+.valor {
+  background-color: hsl(248, 32%, 49%);
+  color: hsl(360, 0%, 100%);
+  margin-left: 50%;
+  margin-right: 15%;
+  padding: 12px 6px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+form {
+  background-color: hsl(360, 0%, 100%);
+  margin-left: 50%;
+  margin-right: 15%;
+  padding: 20px 20px;
+  border-radius: 10px;
+}
+
+.formulario {
+  color: hsl(249, 10%, 26%);
+  background-color: hsl(360, 0%, 100%);
+  display: grid;
+}
+
+.campo {
+  padding: 12px 20px;
+  border-radius: 5px;
+}
+
+.assine {
+  background-color: hsl(154, 59%, 51%);
+  color: hsl(360, 0%, 100%);
+  border-radius: 5px;
+  padding: 12px 20px;
+}
+
+div {
+  color: hsl(246, 25%, 77%);
+  font-size: 11px;
+}
+
+.serviço {
+  color: hsl(0, 100%, 74%);
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center;
+  background-color: hsl(360, 0%, 100%);
+}
+
+.attribution a { 
+  color: hsl(327, 88%, 50%); 
+  text-decoration: none;
+}
